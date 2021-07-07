@@ -1,3 +1,0 @@
-https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
-
-https://bottlepy.org/docs/0.11/stpl.html#the-include-statement
